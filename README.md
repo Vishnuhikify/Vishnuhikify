@@ -8,7 +8,6 @@
 
 🚀 Passionate about building real-world projects that combine innovation, technology, and problem-solving.
 
-##### 👨‍💻 About Me
 - 📡 Enthusiastic about IoT and Smart Systems
 - 🤖 Exploring Machine Learning and AI-driven solutions
 - 🔐 Learning and implementing Cybersecurity best practices
