@@ -4,7 +4,7 @@
 
 </div>
 
-#### 💫 About Me:
+
 
 🚀 Passionate about building real-world projects that combine innovation, technology, and problem-solving.
 
