@@ -1,94 +1,106 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" font-family="'Segoe UI', Arial, sans-serif">
-  <defs>
-    <radialGradient id="atmos" cx="25%" cy="20%" r="95%">
-      <stop offset="0%" stop-color="#1a2347"/>
-      <stop offset="55%" stop-color="#0f1530"/>
-      <stop offset="100%" stop-color="#080b1a"/>
-    </radialGradient>
-    <radialGradient id="gPurple" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#7c5cff" stop-opacity="0.55"/><stop offset="100%" stop-color="#7c5cff" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="gCyan" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.45"/><stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="gPink" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#ec4899" stop-opacity="0.4"/><stop offset="100%" stop-color="#ec4899" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#22d3ee"/><stop offset="50%" stop-color="#7c5cff"/><stop offset="100%" stop-color="#ec4899"/>
-    </linearGradient>
-    <linearGradient id="cubeT" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#8b6dff"/><stop offset="100%" stop-color="#6d4fe0"/></linearGradient>
-    <linearGradient id="cubeL" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#5a3fc0"/><stop offset="100%" stop-color="#3d2a8c"/></linearGradient>
-    <linearGradient id="cubeR" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#4a32a8" stop-color-opacity="1"/><stop offset="100%" stop-color="#2e1f6e"/></linearGradient>
-    <style>
-      @keyframes spin   { 0%{transform:rotate(0)} 100%{transform:rotate(360deg)} }
-      @keyframes floaty { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-14px)} }
-      @keyframes floaty2{ 0%,100%{transform:translateY(0)} 50%{transform:translateY(-9px)} }
-      @keyframes pulse  { 0%,100%{opacity:.5} 50%{opacity:1} }
-      @keyframes drift  { 0%{transform:translate(0,0)} 100%{transform:translate(30px,18px)} }
-      @keyframes fadeUp { 0%{opacity:0;transform:translateY(16px)} 100%{opacity:1;transform:none} }
-      @keyframes dash   { to { stroke-dashoffset: -380; } }
-      .cube  { transform-box:fill-box; transform-origin:center; animation: floaty 6s ease-in-out infinite; }
-      .ring  { transform-box:fill-box; transform-origin:center; animation: spin 18s linear infinite; }
-      .ring2 { transform-box:fill-box; transform-origin:center; animation: spin 26s linear infinite reverse; }
-      .orb1  { transform-box:fill-box; transform-origin:center; animation: floaty2 5.5s ease-in-out infinite .3s; }
-      .orb2  { transform-box:fill-box; transform-origin:center; animation: floaty2 6.4s ease-in-out infinite .8s; }
-      .g1{animation:pulse 7s ease-in-out infinite} .g2{animation:pulse 9s ease-in-out infinite 1s} .g3{animation:pulse 8s ease-in-out infinite .5s}
-      .drift{animation:drift 20s ease-in-out infinite alternate}
-      .t1{opacity:0;animation:fadeUp .8s ease-out .2s forwards}
-      .t2{opacity:0;animation:fadeUp .8s ease-out .5s forwards}
-      .t3{opacity:0;animation:fadeUp .8s ease-out .8s forwards}
-      .flow{stroke-dasharray:6 10;animation:dash 5s linear infinite}
-    </style>
-  </defs>
+<div align="center">
 
-  <rect width="1200" height="320" rx="20" fill="url(#atmos)"/>
-  <circle class="g1 drift" cx="200" cy="120" r="240" fill="url(#gPurple)"/>
-  <circle class="g2 drift" cx="1020" cy="250" r="250" fill="url(#gCyan)"/>
-  <circle class="g3 drift" cx="640" cy="60"  r="200" fill="url(#gPink)"/>
+<img src="./assets/header.svg" alt="Vishnu Prasad — Full-Stack Developer" width="100%"/>
 
-  <!-- subtle circuit lines -->
-  <g stroke="#7c5cff" stroke-opacity="0.18" fill="none" stroke-width="1.5">
-    <path class="flow" d="M0,260 H120 V210 H210"/>
-    <path class="flow" d="M0,80 H80 V130 H180"/>
-    <path class="flow" d="M1200,90 H1080 V150 H1000"/>
-  </g>
+<br/>
 
-  <!-- ===== left text ===== -->
-  <text class="t1" x="64" y="108" font-size="22" fill="#8b95b8" letter-spacing="6">FULL-STACK  DEVELOPER</text>
-  <text class="t2" x="60" y="186" font-size="74" font-weight="800" fill="url(#nameGrad)" letter-spacing="-1">Vishnu Prasad</text>
-  <text class="t3" x="64" y="228" font-size="21" fill="#aeb6d6">IoT  ·  Machine Learning  ·  Cybersecurity  ·  Cloud</text>
-  <g class="t3" font-family="Arial" font-size="14" fill="#aeb6d6">
-    <rect x="64"  y="252" width="132" height="32" rx="16" fill="#ffffff" fill-opacity="0.06" stroke="#7c5cff" stroke-opacity="0.3"/>
-    <text x="84"  y="273">🤖 AI &amp; ML</text>
-    <rect x="208" y="252" width="116" height="32" rx="16" fill="#ffffff" fill-opacity="0.06" stroke="#22d3ee" stroke-opacity="0.3"/>
-    <text x="228" y="273">📡 IoT</text>
-    <rect x="336" y="252" width="160" height="32" rx="16" fill="#ffffff" fill-opacity="0.06" stroke="#ec4899" stroke-opacity="0.3"/>
-    <text x="356" y="273">🔐 Cybersecurity</text>
-  </g>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=7C5CFF&center=true&vCenter=true&width=560&lines=Learn.+Build.+Secure.+Repeat.;Building+intelligent%2C+connected+systems;IoT+%E2%9A%A1+AI+%F0%9F%A4%96+Cybersecurity+%F0%9F%94%90" alt="typing"/>
 
-  <!-- ===== right: 3D isometric cube + orbiting rings ===== -->
-  <g transform="translate(980,160)">
-    <!-- orbit rings -->
-    <ellipse class="ring"  cx="0" cy="0" rx="150" ry="56" fill="none" stroke="#7c5cff" stroke-opacity="0.35" stroke-width="2"/>
-    <ellipse class="ring2" cx="0" cy="0" rx="120" ry="120" fill="none" stroke="#22d3ee" stroke-opacity="0.25" stroke-width="2" stroke-dasharray="4 10"/>
-    <!-- orbiting orbs -->
-    <circle class="orb1" cx="150" cy="0" r="7" fill="#22d3ee"/>
-    <circle class="orb2" cx="-120" cy="40" r="6" fill="#ec4899"/>
-    <circle class="orb1" cx="0" cy="-120" r="6" fill="#7c5cff"/>
+<br/>
 
-    <!-- isometric 3D cube -->
-    <g class="cube">
-      <!-- top face -->
-      <polygon points="0,-70 70,-32 0,6 -70,-32" fill="url(#cubeT)" stroke="#b9a6ff" stroke-opacity="0.5"/>
-      <!-- left face -->
-      <polygon points="-70,-32 0,6 0,86 -70,48" fill="url(#cubeL)" stroke="#b9a6ff" stroke-opacity="0.3"/>
-      <!-- right face -->
-      <polygon points="70,-32 0,6 0,86 70,48" fill="url(#cubeR)" stroke="#b9a6ff" stroke-opacity="0.3"/>
-      <!-- code glyphs on faces -->
-      <text x="-44" y="18" font-size="22" font-family="monospace" fill="#d9ccff" fill-opacity="0.85">&lt;/&gt;</text>
-      <text x="20" y="52" font-size="20" font-family="monospace" fill="#c7b6ff" fill-opacity="0.7">{ }</text>
-      <text x="-12" y="-30" font-size="18" font-family="monospace" fill="#ffffff" fill-opacity="0.55">V</text>
-    </g>
-  </g>
-</svg>
+[![Profile Views](https://komarev.com/ghpvc/?username=Vishnuhikify&label=Profile%20Views&color=7c5cff&style=for-the-badge)](https://github.com/Vishnuhikify)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnu-prasad-928268336)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vishnuprasadd05)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:24cse057@bnmit.in)
+
+</div>
+
+---
+
+## 🧑‍🚀 About Me
+
+```python
+class VishnuPrasad:
+    def __init__(self):
+        self.role     = "Full-Stack Developer"
+        self.location = "Bangalore, India 🇮🇳"
+        self.focus    = ["IoT", "Machine Learning", "Cybersecurity"]
+        self.motto    = "Learn, Build, Secure, Repeat."
+
+    def current_goal(self):
+        return "Build intelligent, secure & connected systems that solve real problems."
+```
+
+- 🔭 &nbsp;Passionate about **real-world projects** that blend innovation, tech & problem-solving
+- 📡 &nbsp;Enthusiastic about **IoT** and **Smart Systems**
+- 🤖 &nbsp;Exploring **Machine Learning** and **AI-driven** solutions
+- 🔐 &nbsp;Learning & implementing **Cybersecurity** best practices
+- 🌱 &nbsp;Always picking up **new technologies & frameworks**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**💻 Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
+
+**🎨 Frontend &nbsp;·&nbsp; ⚙️ Backend**
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,flask,fastapi,nodejs,express" />
+
+**🧠 Data / ML**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,anaconda" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white" height="28"/>
+
+**🗄️ Database &nbsp;·&nbsp; 🧰 Tools**
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,git,github,vscode,linux,docker" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vishnuhikify&show_icons=true&count_private=true&hide_border=true&title_color=7c5cff&icon_color=22d3ee&text_color=aeb6d6&bg_color=0d1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnuhikify&layout=compact&hide_border=true&title_color=7c5cff&text_color=aeb6d6&bg_color=0d1117"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Vishnuhikify&hide_border=true&background=0d1117&stroke=7c5cff&ring=22d3ee&fire=ec4899&currStreakLabel=7c5cff&sideLabels=aeb6d6&dates=586079&currStreakNum=ffffff&sideNums=ffffff"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vishnuhikify&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8"/>
+
+</div>
+
+---
+
+## 🚀 Featured Project
+
+> ### 📚 Athenaeum — *3D Library Management System*
+> A full-stack Library Management System with a hand-built **C++ REST engine** and a **living 3D React catalogue**. Books render as real 3D objects that tilt and lift on hover — with role-based auth, automatic fine tracking, a live dashboard, and CSV reports.
+>
+> `C++17` · `React 18` · `Vite` · `REST API` · `JSON storage`
+
+---
+
+<div align="center">
+
+### ✍️ Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
+
+<br/><br/>
+
+⚡ *"Learn, Build, Secure, Repeat."* ⚡
+
+</div>
