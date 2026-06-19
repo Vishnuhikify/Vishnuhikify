@@ -1,57 +1,73 @@
-# 💻 Tech Stack
+<div align="center">
 
-Discover the languages, frameworks, and tools I use to build intelligent and secure systems.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&height=70&lines=Hi+there+%F0%9F%91%8B+I'm+Vishnu" alt="Hi there I'm Vishnu" />
+
+</div>
+
+#### 💫 Executive Summary
+🚀 Passionate about building real-world projects that combine innovation, technology, and problem-solving. Focused on creating intelligent, secure, and connected systems that solve real-world challenges and create meaningful impact.
 
 ---
+
+## 👨‍💻 About Me
+- 📡 **Systems & Innovation:** Enthusiastic about IoT, Smart Systems, and Cloud/Edge Computing.
+- 🤖 **Intelligence:** Actively exploring Machine Learning and AI-driven solutions.
+- 🔐 **Security:** Learning and implementing Cybersecurity best practices to build resilient systems.
+- 🛠️ **Full-Stack Capability:** Experienced in developing practical, end-to-end software applications.
+- 🌱 **Growth Mindset:** Continuously learning new technologies, frameworks, and methodologies.
+
+> "Learn, Build, Secure, Repeat."
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/vishnu-prasad-928268336" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  </a>
+  <a href="mailto:24cse057@bnmit.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+  </a>
+  <a href="https://instagram.com/vishnuprasadd05" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="35" />
+  </a>
+</p>
+
+---
+
+## 💻 Technical Expertise
 
 ### 🚀 Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts" />
-  </a>
-</p>
-
-### 🌐 Frontend & UI Libraries
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py" />
   </a>
 </p>
 
 ### ⚙️ Backend & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=flask,fastapi,react" />
   </a>
 </p>
 
-### 📊 Data Science & Machine Learning
+### 📊 Data Science & Analysis
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=scikit,numpy,pandas" />
+    <img src="https://skillicons.dev/icons?i=pandas,numpy,scikit" />
   </a>
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5?style=for-the-badge&logo=scipy&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23013243?style=for-the-badge&logo=matplotlib&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5?style=for-the-badge&logo=scipy&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23013243?style=for-the-badge&logo=matplotlib&logoColor=white" height="50" />
 </p>
 
 ### 🗄️ Databases & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,canva" />
+    <img src="https://skillicons.dev/icons?i=mysql,canva,git,github" />
   </a>
 </p>
 
 ---
-
-# 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Vishnuhikify&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Vishnuhikify&theme=radical&hide_border=false" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Vishnuhikify&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="60%" />
-</p>
 
 ### ✍️ Random Dev Quote
 <p align="center">
@@ -59,6 +75,7 @@ Discover the languages, frameworks, and tools I use to build intelligent and sec
 </p>
 
 ---
+
 <p align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://komarev.com/ghpvc/?username=Vishnuhikify&icon=5&color=1" />
