@@ -7,20 +7,35 @@
 </div>
 
 ```
-                                    vishnu@bnmit
-                                    -------------
-           ╭───────────────╮       OS: Windows / Linux
-           │   ┌───┐ ┌───┐ │       Host: BNMIT, Dept. of CSE
-           │   │ ◉ │ │ ◉ │ │       Kernel: DSA · OOP · DBMS · CN
-           │   └───┘ └───┘ │       IDE: VS Code
-           │      ___      │       Languages.Programming: C, C++, Java, Python
-           │     /   \     │       Languages.Frameworks: Flask, FastAPI, React
-           │    │_____│    │       Languages.Data: Pandas, NumPy, SciPy, scikit-learn
-           ╰───────────────╯       Languages.Human: English
-                 │ │               Interests: IoT · Machine Learning · Full-Stack Dev
-              ───┴─┴───            Email: 24cse057@bnmit.in
-                                    LinkedIn: /in/vishnu-prasad-928268336
-                                    GitHub: @Vishnuhikify
+                         ..:::.::.....:.                  vishnu@bnmit
+                    .....    .        .:.:..              -------------
+                ....        .              ..             OS: Windows / Linux
+              ...     .   .. .                @...        Host: BNMIT, Dept. of CSE
+            ...     ... +::.....              ++ ...      Kernel: DSA · OOP · DBMS · CN
+          ...     .# ..:.   ...:.              +:  ..     IDE: VS Code
+         ..       :#:........  +:  :####*#      +++ ..    Languages.Programming: C, C++, Java, Python
+                 .:.+:....   .++:  +.    *@###****    ::  Languages.Frameworks: Flask, FastAPI, React
+           ... :..@::+:...:::*..: .:             **:   :. Languages.Data: Pandas, NumPy, SciPy, scikit-learn
+       :.  .  #.  #: .:*#@+@@#    ..               :    : Languages.Human: English
+      :..     ++.: .:+...+.@@+: ..*.               :    ::Interests: IoT · Machine Learning · Full-Stack Dev
+     ..    ..+::::*.++  ..:*+    .#               ..     :Email: 24cse057@bnmit.in
+            .:::..:#*  **##*     .@                      .LinkedIn: /in/vishnu-prasad-928268336
+      :....:++..:.: *++* .+:.    ##               .      .GitHub: @Vishnuhikify
+     #***++:    +:: +*:@@*++     #                .      .
+     . . **     +:: :*+#. .+:    @               .       .
+     .  ##.     *:#+....::..#:   *         #+:++ .     #+.
+     :. # .::++*#:*+    :..  *++*##        .+  ++.     *+.
+      : .++    +@@@@@@@@@@@   *#*@##+:     +:   ++     @::
+      ::.:        :.+@+::*@#*   **. :.:  #*++:   ++..*.::
+       :#+:+        ..@@@.@:@##@*.*###+#*##@#:.  ++.+:.+
+        +*:.  ...:::***+.:@@#+#@#******@#*#***.  .:   ..
+         *@*.*++++  *#+@**#++:##: *...+........::+++++++::
+          .::*:##+.:+* .+   ::.*. ...::.:          * **@ +
+            ::..... ....                          :* +** +
+             .::                               .::.+:+*+:+
+               ::::                          .::
+                  :::::                  :::..
+                      ::::++:++++:++:::::.
 ```
 
 ---
