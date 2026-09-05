@@ -6,11 +6,28 @@
 
 </div>
 
+```
+                                    vishnu@bnmit
+                                    -------------
+           ╭───────────────╮       OS: Windows / Linux
+           │   ┌───┐ ┌───┐ │       Host: BNMIT, Dept. of CSE
+           │   │ ◉ │ │ ◉ │ │       Kernel: DSA · OOP · DBMS · CN
+           │   └───┘ └───┘ │       IDE: VS Code
+           │      ___      │       Languages.Programming: C, C++, Java, Python
+           │     /   \     │       Languages.Frameworks: Flask, FastAPI, React
+           │    │_____│    │       Languages.Data: Pandas, NumPy, SciPy, scikit-learn
+           ╰───────────────╯       Languages.Human: English
+                 │ │               Interests: IoT · Machine Learning · Full-Stack Dev
+              ───┴─┴───            Email: 24cse057@bnmit.in
+                                    LinkedIn: /in/vishnu-prasad-928268336
+                                    GitHub: @Vishnuhikify
+```
+
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a Computer Science undergraduate who enjoys building real-world systems end to end — from embedded devices and data pipelines to full-stack web applications. I like taking an idea from concept to a working product, and I'm always looking for the next thing to learn.
+I'm a Computer Science undergraduate who enjoys building real-world systems end to end. I like taking an idea from concept to a working product, and I'm always looking for the next thing to learn.
 
 - 📡 Building projects around **IoT and Smart Systems**
 - 🤖 Exploring **Machine Learning** and data-driven applications
