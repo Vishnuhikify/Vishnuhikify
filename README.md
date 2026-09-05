@@ -12,9 +12,9 @@
 
 I'm a Computer Science undergraduate who enjoys building real-world systems end to end. I like taking an idea from concept to a working product, and I'm always looking for the next thing to learn.
 
+- 📊 Primary focus on **Data Science**, Machine Learning, and data-driven applications
 - 📡 Building projects around **IoT and Smart Systems**
-- 🤖 Exploring **Machine Learning** and data-driven applications
-- 🛠️ Focused on **full-stack development** with clean, maintainable code
+- 🛠️ Exploring **full-stack development** alongside my core work
 - 🌱 Continuously picking up new tools, frameworks, and best practices
 
 ## 🎯 Current Goal
