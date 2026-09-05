@@ -6,37 +6,20 @@
 
 </div>
 
-```
-                         ..:::.::.....:.                  vishnu@bnmit
-                    .....    .        .:.:..              -------------
-                ....        .              ..             OS: Windows / Linux
-              ...     .   .. .                @...        Host: BNMIT, Dept. of CSE
-            ...     ... +::.....              ++ ...      Kernel: DSA · OOP · DBMS · CN
-          ...     .# ..:.   ...:.              +:  ..     IDE: VS Code
-         ..       :#:........  +:  :####*#      +++ ..    Languages.Programming: C, C++, Java, Python
-                 .:.+:....   .++:  +.    *@###****    ::  Languages.Frameworks: Flask, FastAPI, React
-           ... :..@::+:...:::*..: .:             **:   :. Languages.Data: Pandas, NumPy, SciPy, scikit-learn
-       :.  .  #.  #: .:*#@+@@#    ..               :    : Languages.Human: English
-      :..     ++.: .:+...+.@@+: ..*.               :    ::Interests: IoT · Machine Learning · Full-Stack Dev
-     ..    ..+::::*.++  ..:*+    .#               ..     :Email: 24cse057@bnmit.in
-            .:::..:#*  **##*     .@                      .LinkedIn: /in/vishnu-prasad-928268336
-      :....:++..:.: *++* .+:.    ##               .      .GitHub: @Vishnuhikify
-     #***++:    +:: +*:@@*++     #                .      .
-     . . **     +:: :*+#. .+:    @               .       .
-     .  ##.     *:#+....::..#:   *         #+:++ .     #+.
-     :. # .::++*#:*+    :..  *++*##        .+  ++.     *+.
-      : .++    +@@@@@@@@@@@   *#*@##+:     +:   ++     @::
-      ::.:        :.+@+::*@#*   **. :.:  #*++:   ++..*.::
-       :#+:+        ..@@@.@:@##@*.*###+#*##@#:.  ++.+:.+
-        +*:.  ...:::***+.:@@#+#@#******@#*#***.  .:   ..
-         *@*.*++++  *#+@**#++:##: *...+........::+++++++::
-          .::*:##+.:+* .+   ::.*. ...::.:          * **@ +
-            ::..... ....                          :* +** +
-             .::                               .::.+:+*+:+
-               ::::                          .::
-                  :::::                  :::..
-                      ::::++:++++:++:::::.
-```
+<table>
+<tr>
+<td width="140" align="center">
+<img src="./assets/avatar.png" width="120" height="120" style="border-radius: 50%; object-fit: cover;" alt="Vishnu" />
+</td>
+<td>
+
+**Vishnu** &nbsp;·&nbsp; B.E. Computer Science, BNMIT
+Building at the intersection of **IoT**, **Machine Learning**, and **Full-Stack Development**
+📫 [24cse057@bnmit.in](mailto:24cse057@bnmit.in) &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/vishnu-prasad-928268336) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/Vishnuhikify)
+
+</td>
+</tr>
+</table>
 
 ---
 
